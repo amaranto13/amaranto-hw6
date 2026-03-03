@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Git Test Page</title>
+    <link rel="stylesheet" type="text/css" href="./css/stylesheet.css" />
+</head>
+
+<body>
+
+    <h1>Angela Maranto</h1>
+
+    <p>Favorite Color: Pink</p>
+
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+
+</body>
+
+</html>
